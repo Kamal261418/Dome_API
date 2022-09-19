@@ -1,0 +1,24 @@
+C:\Users\mosta\OneDrive\Desktop\DemoApi\DemoApi\Core\bin\Debug\net5.0\Core.deps.json
+C:\Users\mosta\OneDrive\Desktop\DemoApi\DemoApi\Core\bin\Debug\net5.0\Core.dll
+C:\Users\mosta\OneDrive\Desktop\DemoApi\DemoApi\Core\bin\Debug\net5.0\Core.pdb
+C:\Users\mosta\OneDrive\Desktop\DemoApi\DemoApi\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+C:\Users\mosta\OneDrive\Desktop\DemoApi\DemoApi\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mosta\OneDrive\Desktop\DemoApi\DemoApi\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+C:\Users\mosta\OneDrive\Desktop\DemoApi\DemoApi\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+C:\Users\mosta\OneDrive\Desktop\DemoApi\DemoApi\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\mosta\OneDrive\Desktop\DemoApi\DemoApi\Core\obj\Debug\net5.0\Core.dll
+C:\Users\mosta\OneDrive\Desktop\DemoApi\DemoApi\Core\obj\Debug\net5.0\refint\Core.dll
+C:\Users\mosta\OneDrive\Desktop\DemoApi\DemoApi\Core\obj\Debug\net5.0\Core.pdb
+C:\Users\mosta\OneDrive\Desktop\DemoApi\DemoApi\Core\obj\Debug\net5.0\ref\Core.dll
+E:\Projects-ASP.Net MVC&Web APIS\DemoApi\Core\bin\Debug\net5.0\Core.deps.json
+E:\Projects-ASP.Net MVC&Web APIS\DemoApi\Core\bin\Debug\net5.0\Core.dll
+E:\Projects-ASP.Net MVC&Web APIS\DemoApi\Core\bin\Debug\net5.0\Core.pdb
+E:\Projects-ASP.Net MVC&Web APIS\DemoApi\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+E:\Projects-ASP.Net MVC&Web APIS\DemoApi\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects-ASP.Net MVC&Web APIS\DemoApi\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+E:\Projects-ASP.Net MVC&Web APIS\DemoApi\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+E:\Projects-ASP.Net MVC&Web APIS\DemoApi\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+E:\Projects-ASP.Net MVC&Web APIS\DemoApi\Core\obj\Debug\net5.0\Core.dll
+E:\Projects-ASP.Net MVC&Web APIS\DemoApi\Core\obj\Debug\net5.0\refint\Core.dll
+E:\Projects-ASP.Net MVC&Web APIS\DemoApi\Core\obj\Debug\net5.0\Core.pdb
+E:\Projects-ASP.Net MVC&Web APIS\DemoApi\Core\obj\Debug\net5.0\ref\Core.dll
